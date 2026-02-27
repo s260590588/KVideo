@@ -629,7 +629,7 @@
         "baseUrl": "https://fqzy.me//api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 18
+        "priority": 23
     },
     {
         "id": "xjzy",
@@ -637,7 +637,7 @@
         "baseUrl": "https://www.xiangjiaozyw.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 19
+        "priority": 24
     },
     {
         "id": "hsckzy",
@@ -645,7 +645,7 @@
         "baseUrl": "https://hsckzy888.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 20
+        "priority": 25
     },
     {
         "id": "xzy",
@@ -653,7 +653,7 @@
         "baseUrl": "https://xzybb1.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 21
+        "priority": 26
     },
     {
         "id": "xingba",
@@ -661,6 +661,6 @@
         "baseUrl": "https://json.xingba222.com/api.php/provide/vod",
         "group": "premium",
         "enabled": true,
-        "priority": 22
+        "priority": 27
     }
 ]
